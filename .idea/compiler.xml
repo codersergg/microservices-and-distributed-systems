@@ -19,13 +19,13 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="amqp" options="--add-modules java.base" />
+      <module name="amqp" options="" />
       <module name="apigw" options="" />
       <module name="clients" options="" />
-      <module name="customer" options="--add-modules java.base" />
+      <module name="customer" options="" />
       <module name="eureka-server" options="" />
       <module name="fraud" options="" />
-      <module name="notification" options="--add-modules java.base" />
+      <module name="notification" options="" />
     </option>
   </component>
 </project>
